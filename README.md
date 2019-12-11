@@ -1,3 +1,11 @@
+## 3th Semester CPH Business - Fly&See Frontend
+by Noell Zane and Steingrimur Jonsson
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
