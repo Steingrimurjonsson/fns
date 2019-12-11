@@ -1,0 +1,41 @@
+{
+    "cities": [
+      {
+        "city": "paris",
+        "picture": {
+          "large": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/paris_web-0a3c7314a5.jpg"
+        }
+      },
+      {
+        "city": "amsterdam",
+        "picture": {
+          "large": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/amsterdam_web-1cd4b2bf75.jpg"
+        }
+      },    
+      {
+        "city": "copenhagen",
+        "picture": {
+          "large": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/copenhagen_web-0f21a09556.jpg"
+        }
+      },
+      {
+        "city": "brussels",
+        "picture": {
+          "large": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brussels_web-638082b79b.jpg"
+        }
+      },
+      {
+        "city": "berlin",
+        "picture": {
+          "large": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/berlin_web-42996a2587.jpg"
+        }
+      },
+      {
+        "city": "london",
+        "picture": {
+          "large": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/london_web-e8502ca139.jpg"
+        }
+      }
+    ]
+  }
+  
