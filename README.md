@@ -1,6 +1,6 @@
 ## 3th Semester CPH Business - Fly&See Frontend
 by Noell Zane and Steingrimur Jonsson
-
+Link to deployed page https://build.noellzane.now.sh/
 
 
 
